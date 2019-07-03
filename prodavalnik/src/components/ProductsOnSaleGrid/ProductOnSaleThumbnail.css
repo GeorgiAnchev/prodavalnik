@@ -1,0 +1,23 @@
+div.container {
+    width: 300px;
+    max-height: 400px;
+}
+
+div > img {
+    display: block;
+    margin:auto;
+}
+
+dev del {
+    font-weight: normal;
+    font-size: 1em;
+}
+
+div > div {
+    margin:auto;
+    margin-top: 3px;
+}
+
+div.hoverable:hover {
+    background-color:#f2f2f2
+}
